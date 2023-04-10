@@ -17,16 +17,15 @@ Grandes telas: acima de 1200px
 
     section#login > div#imagen{
         float: left;
-        width: 30%;
+        width: 40%;
         height: 100%;
         background-size: cover;
-        background-position: right bottom;
+        background-position: right left;
     }
 
     section#login > div#formulario{
         float: right;
-        width: 70%;
-
+        width: 60%;
     }
 }
 
